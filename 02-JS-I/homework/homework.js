@@ -35,7 +35,7 @@ function suma(x, y) {
   // "x" e "y" son números
   // Suma "x" e "y" juntos y devuelve el valor
   // Tu código:
-  console.log(3 + 2);
+  console.suma(3 + 2);
 }
 
 function resta(x, y) {
